@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "sockjs-client": "1.0.0",
+    "sockjs-client": "1.2.0",
     "vertx3-eventbus-client": "3.8.1"
   },
   "main": "index.js",
